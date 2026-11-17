@@ -4,13 +4,13 @@ Discover, play, and build open-source applications for PixelMug. Each project be
 
 [Explore the developer docs](https://bubble-pixelmug.github.io/pixelmug-docs/) · [Get PixelMug Studio](https://github.com/bubble-pixelmug/pixelmug-studio) · [Browse all repositories](https://github.com/orgs/pixelmug-applications/repositories)
 
-> Cover art is illustrative while real application photos and videos are being prepared. It does not show actual app output.
+> SVG covers are illustrative placeholders. Animated covers show application previews.
 
 ## Games
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/block-drop"><img src="assets/block-drop.gif" alt="Illustrated placeholder cover for Block Drop" width="100%"></a><br><strong>Block Drop</strong><br>Guide falling blocks from a BLE WebApp controller.<br><a href="https://github.com/pixelmug-applications/block-drop">Source</a></td>
+<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/block-drop"><img src="assets/block-drop.gif" alt="Animated Block Drop gameplay preview" width="100%"></a><br><strong>Block Drop</strong><br>Guide falling blocks from a BLE WebApp controller.<br><a href="https://github.com/pixelmug-applications/block-drop">Source</a></td>
 <td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/block-drop-battle"><img src="assets/block-drop-battle.svg" alt="Illustrated placeholder cover for Block Drop Battle" width="100%"></a><br><strong>Block Drop Battle</strong><br>Two players, two PixelMugs, one group leaderboard.<br><a href="https://github.com/pixelmug-applications/block-drop-battle">Source</a></td>
 </tr>
 <tr>

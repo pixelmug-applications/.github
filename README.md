@@ -4,8 +4,8 @@ This repository powers the public [PixelMug Applications organization profile](h
 
 ## Update an application cover
 
-1. Put a real image or short looping GIF in `profile/assets/`. Use the application slug as its filename, for example `block-drop.gif`. A 16:9 image showing the application on a real PixelMug works best. Keep the file small so the gallery loads quickly. The current SVGs are clearly marked placeholders.
-2. In `profile/README.md`, find that application's card and change its `<img src="assets/block-drop.svg">` to the new filename. Update its alternative text to describe the actual image.
+1. Put a real image or short looping GIF in `profile/assets/`. Use the application slug as its filename, as with `block-drop.gif`. A 16:9 image showing the application on a real PixelMug works best. Keep the file small so the gallery loads quickly. SVG covers are clearly marked placeholders.
+2. In `profile/README.md`, find that application's card and change its `<img src="assets/<slug>.svg">` to the new filename. Update its alternative text to describe the actual image.
 3. If a public demo video exists, add a **Demo** link to that card. Keep the **Source** link pointing to the application's own repository. Add a **Try it** or **Install** link only when that destination actually works.
 4. Preview the rendered `profile/README.md` on GitHub before publishing. The image path is relative to `profile/README.md`, so `assets/name.gif` means `profile/assets/name.gif`.
 
