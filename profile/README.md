@@ -11,14 +11,14 @@ Discover, play, and build open-source applications for PixelMug. Each project be
 <table>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/block-drop"><img src="assets/block-drop.gif" alt="Animated Block Drop gameplay preview" width="100%"></a><br><strong>Block Drop</strong><br>Guide falling blocks from a BLE WebApp controller.<br><a href="https://github.com/pixelmug-applications/block-drop">Source</a></td>
-<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/block-drop-battle"><img src="assets/block-drop-battle.svg" alt="Illustrated placeholder cover for Block Drop Battle" width="100%"></a><br><strong>Block Drop Battle</strong><br>Two players, two PixelMugs, one group leaderboard.<br><a href="https://github.com/pixelmug-applications/block-drop-battle">Source</a></td>
+<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/block-drop-battle"><img src="assets/dino-runner.gif" alt="Illustrated placeholder cover for Block Drop Battle" width="100%"></a><br><strong>Block Drop Battle</strong><br>Two players, two PixelMugs, one group leaderboard.<br><a href="https://github.com/pixelmug-applications/block-drop-battle">Source</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/duck-hunt"><img src="assets/duck-hunt.svg" alt="Illustrated placeholder cover for Duck Hunt" width="100%"></a><br><strong>Duck Hunt</strong><br>Use your phone as a BLE sight for a PixelMug arcade game.<br><a href="https://github.com/pixelmug-applications/duck-hunt">Source</a></td>
-<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/party-games"><img src="assets/party-games.svg" alt="Illustrated placeholder cover for Party Games" width="100%"></a><br><strong>Party Games</strong><br>Flip coins, roll dice, spin a wheel, and play together.<br><a href="https://github.com/pixelmug-applications/party-games">Source</a></td>
+<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/duck-hunt"><img src="assets/dino-runner.gif" alt="Illustrated placeholder cover for Duck Hunt" width="100%"></a><br><strong>Duck Hunt</strong><br>Use your phone as a BLE sight for a PixelMug arcade game.<br><a href="https://github.com/pixelmug-applications/duck-hunt">Source</a></td>
+<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/party-games"><img src="assets/dino-runner.gif" alt="Illustrated placeholder cover for Party Games" width="100%"></a><br><strong>Party Games</strong><br>Flip coins, roll dice, spin a wheel, and play together.<br><a href="https://github.com/pixelmug-applications/party-games">Source</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/cyber-woodfish"><img src="assets/cyber-woodfish.svg" alt="Illustrated placeholder cover for Cyber Woodfish" width="100%"></a><br><strong>Cyber Woodfish</strong><br>Tap a digital woodfish and keep your stats on the device.<br><a href="https://github.com/pixelmug-applications/cyber-woodfish">Source</a></td>
+<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/cyber-woodfish"><img src="assets/dino-runner.gif" alt="Illustrated placeholder cover for Cyber Woodfish" width="100%"></a><br><strong>Cyber Woodfish</strong><br>Tap a digital woodfish and keep your stats on the device.<br><a href="https://github.com/pixelmug-applications/cyber-woodfish">Source</a></td>
 <td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/dino-runner"><img src="assets/dino-runner.gif" alt="Illustrated placeholder cover for Dino Runner" width="100%"></a><br><strong>Dino Runner</strong><br>Jump over obstacles on PixelMug and beat your best score.<br><a href="https://github.com/pixelmug-applications/dino-runner">Source</a></td>
 </tr>
 </table>
@@ -27,11 +27,11 @@ Discover, play, and build open-source applications for PixelMug. Each project be
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/ambient-clock"><img src="assets/ambient-clock.svg" alt="Illustrated placeholder cover for Ambient Clock" width="100%"></a><br><strong>Ambient Clock</strong><br>Three clock styles with ticking sounds and ambient audio.<br><a href="https://github.com/pixelmug-applications/ambient-clock">Source</a></td>
-<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/pomodoro"><img src="assets/pomodoro.svg" alt="Illustrated placeholder cover for Pomodoro Timer" width="100%"></a><br><strong>Pomodoro Timer</strong><br>Focus and break cycles that run directly on PixelMug.<br><a href="https://github.com/pixelmug-applications/pomodoro">Source</a></td>
+<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/ambient-clock"><img src="assets/dino-runner.gif" alt="Illustrated placeholder cover for Ambient Clock" width="100%"></a><br><strong>Ambient Clock</strong><br>Three clock styles with ticking sounds and ambient audio.<br><a href="https://github.com/pixelmug-applications/ambient-clock">Source</a></td>
+<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/pomodoro"><img src="assets/dino-runner.gif" alt="Illustrated placeholder cover for Pomodoro Timer" width="100%"></a><br><strong>Pomodoro Timer</strong><br>Focus and break cycles that run directly on PixelMug.<br><a href="https://github.com/pixelmug-applications/pomodoro">Source</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/message-board"><img src="assets/message-board.svg" alt="Illustrated placeholder cover for Message Board" width="100%"></a><br><strong>Message Board</strong><br>Send chat messages to a PixelMug display through a Bot.<br><a href="https://github.com/pixelmug-applications/message-board">Source</a></td>
+<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/message-board"><img src="assets/dino-runner.gif" alt="Illustrated placeholder cover for Message Board" width="100%"></a><br><strong>Message Board</strong><br>Send chat messages to a PixelMug display through a Bot.<br><a href="https://github.com/pixelmug-applications/message-board">Source</a></td>
 <td width="50%" valign="top"></td>
 </tr>
 </table>
