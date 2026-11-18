@@ -14,6 +14,7 @@ You may delete the old placeholder SVG after switching the card to a real image.
 ## Add a new open-source application
 
 1. Publish the complete application in its own public repository under [pixelmug-applications](https://github.com/pixelmug-applications). Keep private projects out of this gallery.
+   The organization repository count also includes `.github`, which hosts this gallery and is not an application card.
 2. Add a two-column card to the appropriate category in `profile/README.md`: cover, name, one-sentence description, and **Source** link. Add **Demo** or **Try it** only when available.
 3. Add its cover to `profile/assets/`. If no real media exists yet, run `node scripts/create-placeholder.mjs <slug> "Display Name" "#hexcolor"` and use `assets/<slug>.svg` in the card.
 4. Check that the repository URL and cover render correctly on the organization Overview page. The six optional GitHub pinned repositories are curated separately in organization settings.
