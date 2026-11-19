@@ -11,7 +11,7 @@ Discover, play, and build open-source applications for PixelMug. Each project be
 <table>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/block-drop"><img src="assets/block-drop.gif" alt="Animated Block Drop gameplay preview" width="100%"></a><br><strong>Block Drop</strong><br>Guide falling blocks from a BLE WebApp controller.<br><a href="https://github.com/pixelmug-applications/block-drop">Source</a></td>
-<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/block-drop-battle"><img src="assets/block-drop.gif" alt="Illustrated placeholder cover for Block Drop Battle" width="100%"></a><br><strong>Block Drop Battle</strong><br>Two players, two PixelMugs, one group leaderboard.<br><a href="https://github.com/pixelmug-applications/block-drop-battle">Source</a></td>
+<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/block-drop-battle"><img src="assets/block-drop-battle.gif" alt="Animated Block Drop Battle gameplay preview" width="100%"></a><br><strong>Block Drop Battle</strong><br>Two players, two PixelMugs, one group leaderboard.<br><a href="https://github.com/pixelmug-applications/block-drop-battle">Source</a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/duck-hunt"><img src="assets/block-drop.gif" alt="Illustrated placeholder cover for Duck Hunt" width="100%"></a><br><strong>Duck Hunt</strong><br>Use your phone as a BLE sight for a PixelMug arcade game.<br><a href="https://github.com/pixelmug-applications/duck-hunt">Source</a></td>
