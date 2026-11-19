@@ -15,7 +15,7 @@ Discover, play, and build open-source applications for PixelMug. Each project be
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/duck-hunt"><img src="assets/duck-hunt.gif" alt="Animated Duck Hunt gameplay preview" width="100%"></a><br><strong>Duck Hunt</strong><br>Use your phone as a BLE sight for a PixelMug arcade game.<br><a href="https://github.com/pixelmug-applications/duck-hunt">Source</a></td>
-<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/party-games"><img src="assets/block-drop.gif" alt="Illustrated placeholder cover for Party Games" width="100%"></a><br><strong>Party Games</strong><br>Flip coins, roll dice, spin a wheel, and play together.<br><a href="https://github.com/pixelmug-applications/party-games">Source</a></td>
+<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/party-games"><img src="assets/party-games.gif" alt="Animated Party Games gameplay preview" width="100%"></a><br><strong>Party Games</strong><br>Flip coins, roll dice, spin a wheel, and play together.<br><a href="https://github.com/pixelmug-applications/party-games">Source</a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/cyber-woodfish"><img src="assets/cyber-woodfish.gif" alt="Animated Cyber Woodfish application preview" width="100%"></a><br><strong>Cyber Woodfish</strong><br>Tap a digital woodfish and keep your stats on the device.<br><a href="https://github.com/pixelmug-applications/cyber-woodfish">Source</a></td>
