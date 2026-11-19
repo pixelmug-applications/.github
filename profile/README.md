@@ -22,7 +22,7 @@ Discover, play, and build open-source applications for PixelMug. Each project be
 <td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/dino-runner"><img src="assets/dino-runner.gif" alt="Animated Dino Runner gameplay preview" width="100%"></a><br><strong>Dino Runner</strong><br>Jump over obstacles on PixelMug and beat your best score.<br><a href="https://github.com/pixelmug-applications/dino-runner">Source</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/early-bird"><img src="assets/early-bird.svg" alt="Illustrated placeholder cover for Early Bird" width="100%"></a><br><strong>Early Bird</strong><br>Tap to fly, eat bugs, dodge eagles, and beat your best score on PixelMug.<br><a href="https://github.com/pixelmug-applications/early-bird">Source</a></td>
+<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/early-bird"><img src="assets/early-bird.gif" alt="Animated Early Bird gameplay preview" width="100%"></a><br><strong>Early Bird</strong><br>Tap to fly, eat bugs, dodge eagles, and beat your best score on PixelMug.<br><a href="https://github.com/pixelmug-applications/early-bird">Source</a></td>
 <td width="50%" valign="top"></td>
 </tr>
 </table>
