@@ -19,7 +19,7 @@ Discover, play, and build open-source applications for PixelMug. Each project be
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/cyber-woodfish"><img src="assets/cyber-woodfish.gif" alt="Animated Cyber Woodfish application preview" width="100%"></a><br><strong>Cyber Woodfish</strong><br>Tap a digital woodfish and keep your stats on the device.<br><a href="https://github.com/pixelmug-applications/cyber-woodfish">Source</a></td>
-<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/dino-runner"><img src="assets/block-drop.gif" alt="Illustrated placeholder cover for Dino Runner" width="100%"></a><br><strong>Dino Runner</strong><br>Jump over obstacles on PixelMug and beat your best score.<br><a href="https://github.com/pixelmug-applications/dino-runner">Source</a></td>
+<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/dino-runner"><img src="assets/dino-runner.gif" alt="Animated Dino Runner gameplay preview" width="100%"></a><br><strong>Dino Runner</strong><br>Jump over obstacles on PixelMug and beat your best score.<br><a href="https://github.com/pixelmug-applications/dino-runner">Source</a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/early-bird"><img src="assets/early-bird.svg" alt="Illustrated placeholder cover for Early Bird" width="100%"></a><br><strong>Early Bird</strong><br>Tap to fly, eat bugs, dodge eagles, and beat your best score on PixelMug.<br><a href="https://github.com/pixelmug-applications/early-bird">Source</a></td>
