@@ -18,7 +18,7 @@ Discover, play, and build open-source applications for PixelMug. Each project be
 <td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/party-games"><img src="assets/block-drop.gif" alt="Illustrated placeholder cover for Party Games" width="100%"></a><br><strong>Party Games</strong><br>Flip coins, roll dice, spin a wheel, and play together.<br><a href="https://github.com/pixelmug-applications/party-games">Source</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/cyber-woodfish"><img src="assets/block-drop.gif" alt="Illustrated placeholder cover for Cyber Woodfish" width="100%"></a><br><strong>Cyber Woodfish</strong><br>Tap a digital woodfish and keep your stats on the device.<br><a href="https://github.com/pixelmug-applications/cyber-woodfish">Source</a></td>
+<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/cyber-woodfish"><img src="assets/cyber-woodfish.gif" alt="Animated Cyber Woodfish application preview" width="100%"></a><br><strong>Cyber Woodfish</strong><br>Tap a digital woodfish and keep your stats on the device.<br><a href="https://github.com/pixelmug-applications/cyber-woodfish">Source</a></td>
 <td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/dino-runner"><img src="assets/block-drop.gif" alt="Illustrated placeholder cover for Dino Runner" width="100%"></a><br><strong>Dino Runner</strong><br>Jump over obstacles on PixelMug and beat your best score.<br><a href="https://github.com/pixelmug-applications/dino-runner">Source</a></td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@ Discover, play, and build open-source applications for PixelMug. Each project be
 <table>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/audio-visualizer"><img src="assets/audio-visualizer.svg" alt="Illustrated placeholder cover for Audio Visualizer" width="100%"></a><br><strong>Audio Visualizer</strong><br>Explore audio spectra and network music on PixelMug.<br><a href="https://github.com/pixelmug-applications/audio-visualizer">Source</a></td>
-<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/emoji-magnet"><img src="assets/emoji-magnet.svg" alt="Illustrated placeholder cover for Emoji Magnet" width="100%"></a><br><strong>Emoji Magnet</strong><br>Shake emoji into particles and watch them reform.<br><a href="https://github.com/pixelmug-applications/emoji-magnet">Source</a></td>
+<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/emoji-magnet"><img src="assets/emoji-magnet.gif" alt="Animated Emoji Magnet application preview" width="100%"></a><br><strong>Emoji Magnet</strong><br>Shake emoji into particles and watch them reform.<br><a href="https://github.com/pixelmug-applications/emoji-magnet">Source</a></td>
 </tr>
 </table>
 
