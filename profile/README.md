@@ -23,7 +23,7 @@ Discover, play, and build open-source applications for PixelMug. Each project be
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/early-bird"><img src="assets/early-bird.gif" alt="Animated Early Bird gameplay preview" width="100%"></a><br><strong>Early Bird</strong><br>Tap to fly, eat bugs, dodge eagles, and beat your best score on PixelMug.<br><a href="https://github.com/pixelmug-applications/early-bird">Source</a></td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top"><img src="assets/column-spacer.svg" alt="" width="480" height="1"></td>
 </tr>
 </table>
 
@@ -44,7 +44,7 @@ Discover, play, and build open-source applications for PixelMug. Each project be
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/audio-visualizer"><img src="assets/audio-visualizer.svg" alt="Illustrated placeholder cover for Audio Visualizer" width="100%"></a><br><strong>Audio Visualizer</strong><br>Explore audio spectra and network music on PixelMug.<br><a href="https://github.com/pixelmug-applications/audio-visualizer">Source</a></td>
+<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/audio-visualizer"><img src="assets/audio-visualizer.gif" alt="Animated Audio Visualizer application preview" width="100%"></a><br><strong>Audio Visualizer</strong><br>Explore audio spectra and network music on PixelMug.<br><a href="https://github.com/pixelmug-applications/audio-visualizer">Source</a></td>
 <td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/emoji-magnet"><img src="assets/emoji-magnet.gif" alt="Animated Emoji Magnet application preview" width="100%"></a><br><strong>Emoji Magnet</strong><br>Shake emoji into particles and watch them reform.<br><a href="https://github.com/pixelmug-applications/emoji-magnet">Source</a></td>
 </tr>
 </table>
@@ -54,7 +54,7 @@ Discover, play, and build open-source applications for PixelMug. Each project be
 <table>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/codex-buddy"><img src="assets/codex-buddy.gif" alt="Animated Codex Buddy application preview" width="100%"></a><br><strong>Codex Buddy</strong><br>Show Codex activity on PixelMug with a desktop companion.<br><a href="https://github.com/pixelmug-applications/codex-buddy">Source</a></td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top"><img src="assets/column-spacer.svg" alt="" width="480" height="1"></td>
 </tr>
 </table>
 
