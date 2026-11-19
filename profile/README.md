@@ -36,7 +36,7 @@ Discover, play, and build open-source applications for PixelMug. Each project be
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/message-board"><img src="assets/block-drop.gif" alt="Illustrated placeholder cover for Message Board" width="100%"></a><br><strong>Message Board</strong><br>Send chat messages to a PixelMug display through a Bot.<br><a href="https://github.com/pixelmug-applications/message-board">Source</a></td>
-<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/daily-reminder"><img src="assets/daily-reminder.svg" alt="Illustrated placeholder cover for Daily Reminder" width="100%"></a><br><strong>Daily Reminder</strong><br>Edit today's schedule and sync it to PixelMug for a timeline and sound reminders.<br><a href="https://github.com/pixelmug-applications/daily-reminder">Source</a></td>
+<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/daily-reminder"><img src="assets/daily-reminder.gif" alt="Animated Daily Reminder application preview" width="100%"></a><br><strong>Daily Reminder</strong><br>Edit today's schedule and sync it to PixelMug for a timeline and sound reminders.<br><a href="https://github.com/pixelmug-applications/daily-reminder">Source</a></td>
 </tr>
 </table>
 
@@ -53,7 +53,7 @@ Discover, play, and build open-source applications for PixelMug. Each project be
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/codex-buddy"><img src="assets/codex-buddy.svg" alt="Illustrated placeholder cover for Codex Buddy" width="100%"></a><br><strong>Codex Buddy</strong><br>Show Codex activity on PixelMug with a desktop companion.<br><a href="https://github.com/pixelmug-applications/codex-buddy">Source</a></td>
+<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/codex-buddy"><img src="assets/codex-buddy.gif" alt="Animated Codex Buddy application preview" width="100%"></a><br><strong>Codex Buddy</strong><br>Show Codex activity on PixelMug with a desktop companion.<br><a href="https://github.com/pixelmug-applications/codex-buddy">Source</a></td>
 <td width="50%" valign="top"></td>
 </tr>
 </table>
