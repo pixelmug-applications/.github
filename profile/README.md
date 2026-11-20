@@ -35,7 +35,7 @@ Discover, play, and build open-source applications for PixelMug. Each project be
 <td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/pomodoro"><img src="assets/pomodoro.gif" alt="Animated Pomodoro Timer application preview" width="100%"></a><br><strong>Pomodoro Timer</strong><br>Focus and break cycles that run directly on PixelMug.<br><a href="https://github.com/pixelmug-applications/pomodoro">Source</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/message-board"><img src="assets/block-drop.gif" alt="Illustrated placeholder cover for Message Board" width="100%"></a><br><strong>Message Board</strong><br>Send chat messages to a PixelMug display through a Bot.<br><a href="https://github.com/pixelmug-applications/message-board">Source</a></td>
+<td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/message-board"><img src="assets/message-board.gif" alt="Animated Message Board application preview" width="100%"></a><br><strong>Message Board</strong><br>Send chat messages to a PixelMug display through a Bot.<br><a href="https://github.com/pixelmug-applications/message-board">Source</a></td>
 <td width="50%" valign="top"><a href="https://github.com/pixelmug-applications/daily-reminder"><img src="assets/daily-reminder.gif" alt="Animated Daily Reminder application preview" width="100%"></a><br><strong>Daily Reminder</strong><br>Edit today's schedule and sync it to PixelMug for a timeline and sound reminders.<br><a href="https://github.com/pixelmug-applications/daily-reminder">Source</a></td>
 </tr>
 </table>
